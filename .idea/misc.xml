@@ -9,9 +9,14 @@
         <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/drawable/shape_rectangle_8_ffc700.xml" value="0.1555" />
         <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/drawable/shape_rectangle_8_fff.xml" value="0.1555" />
         <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/drawable/shape_rectangle_outline_8_020202.xml" value="0.1555" />
+        <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/activity_auth.xml" value="0.25416666666666665" />
         <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
         <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/activity_splash_screen.xml" value="0.25416666666666665" />
         <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/fragment_signin.xml" value="0.264" />
+        <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/fragment_signup.xml" value="0.264" />
+        <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/fragment_signupAddress.xml" value="0.19882246376811594" />
+        <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/fragment_signup_address.xml" value="0.264" />
+        <entry key="..\:/PROJECT/MadeeFood-App_Kotlin_and_Laravel/FE/app/src/main/res/layout/layout_toolbar.xml" value="0.22760416666666666" />
       </map>
     </option>
   </component>
