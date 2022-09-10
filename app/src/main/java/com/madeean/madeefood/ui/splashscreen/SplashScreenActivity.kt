@@ -4,7 +4,6 @@ import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.os.Handler
-import com.madeean.madeefood.MainActivity
 import com.madeean.madeefood.R
 import com.madeean.madeefood.ui.auth.AuthActivity
 
